@@ -1,0 +1,3 @@
+# 忽略大文件
+RetinaBERT/A2_KEBERT/Bio_ClinicalBERT/model.safetensors
+flair/modeling/flair_pretrained_weights/
